@@ -11,6 +11,7 @@ models/
 *.tar
 *.gz
 __pycache__/
+weights/
 *.pyc
 *.pyo
 .venv/
